@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/aswinblix"><img src="https://api.daily.dev/devcards/5fc9fdaa39814a3d9f1554ba74c6bb11.png?r=4rs" width="400" alt="Aswin Blix's Dev Card"/></a>
+<a href="https://app.daily.dev/aswinblix"><img src="https://api.daily.dev/devcards/5fc9fdaa39814a3d9f1554ba74c6bb11.png?r=8jn" width="400" alt="Aswin Blix's Dev Card"/></a>
 
 <!--
 **bnp-aswin/bnp-aswin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
